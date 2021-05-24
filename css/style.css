@@ -225,8 +225,6 @@
 }
 
 .subtitle {
-  width: 253px;
-  height: 63px;
   font-family: Yeseva One;
   font-style: normal;
   font-weight: normal;
@@ -238,8 +236,6 @@
 }
 
 .paragraf-1 {
-  width: 442px;
-  height: 86px;
   font-family: Nunito Sans;
   font-style: normal;
   font-weight: normal;
@@ -249,18 +245,6 @@
   margin-right: 50px;
   margin-bottom: 0px;
   color: #ffffff;
-}
-
-.hero-1-m {
-  display: none;
-}
-
-.button-m {
-  display: none;
-  /*width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  background-color: #e3b873;*/
 }
 
 .subtitle-1 {
@@ -331,6 +315,610 @@
   margin-top: 92px;
   padding-bottom: 257px;
   text-align: center;
+}
+
+.hero-2 {
+  max-width: 1440px;
+}
+
+.slider-2 {
+  width: 817px;
+  height: 434px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.slider_3 {
+  margin-left: 100px;
+}
+
+.slider_4 {
+  margin: 0;
+}
+
+.slider_5 {
+  margin-right: 100px;
+}
+
+.but {
+  text-align: center;
+  margin-top: -280px;
+  margin-bottom: 200px;
+}
+
+.button-2 {
+  width: 28px;
+  height: 28px;
+  margin-left: 28px;
+  padding: 0;
+  border: 15px solid transparent;
+  border-left: 25px solid #ffffff;
+}
+
+.button_2 {
+  width: 85px;
+  height: 85px;
+  border: 0;
+  border-radius: 50%;
+  background-color: #e3b873;
+}
+
+.paragraf-3 {
+  display: inline-block;
+  width: 680px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 37px;
+  text-align: center;
+  color: #363636;
+}
+
+.bux {
+  text-align: center;
+  margin-top: -200px;
+}
+
+.box-2 {
+  margin-top: 300px;
+  margin-bottom: 91px;
+  text-align: center;
+}
+
+.button-3 {
+  width: 200px;
+  height: 51px;
+  border: none;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  border-radius: 2px;
+  background: #e3b873;
+}
+
+.input-1 {
+  text-align: center;
+}
+
+.paragraf-4 {
+  display: inline;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 163.68%;
+  margin: 0;
+  color: #181818;
+}
+
+.box-3 {
+  margin-top: 37px;
+  margin-bottom: 75px;
+  text-align: center;
+}
+
+.checkmark {
+  display: inline;
+  width: 18px;
+  height: 18px;
+  border: none;
+  border-radius: 1px;
+  margin-right: 8px;
+  background-color: #e3b873;
+}
+
+.paragraf_4 {
+  margin: 0;
+}
+
+.text-1 {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #181818;
+}
+
+.vector_2 {
+  color: #e3b873;
+  border-right: solid 2px;
+  border-left: solid 2px;
+}
+
+.icon-1 {
+  margin: 0;
+  margin-bottom: 31px;
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 0;
+}
+
+.box-4 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: -110px;
+}
+
+.box_4 {
+  width: 330px;
+  height: 286px;
+  margin-right: 0;
+  margin-left: 100px;
+  background: #ffffff;
+}
+
+.box_5 {
+  width: 330px;
+  height: 286px;
+  margin-right: 0;
+  background: #ffffff;
+}
+
+.box_6 {
+  width: 330px;
+  height: 286px;
+  margin-right: 100px;
+  margin-left: 0;
+  background: #ffffff;
+}
+
+.subtitle-2 {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 13px;
+  margin-left: 34px;
+  color: #363636;
+}
+
+.navigation-1 {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 27px;
+  margin-top: 0;
+  margin-left: 10px;
+  color: #959595;
+}
+
+.box-5 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.blok_1 {
+  width: 228px;
+  height: 54px;
+  margin-top: -30px;
+  margin-left: 50px;
+  background: #e3b873;
+}
+
+.blok_2 {
+  width: 228px;
+  height: 54px;
+  margin-top: -30px;
+  background: #e3b873;
+}
+
+.blok_3 {
+  width: 228px;
+  height: 54px;
+  margin-top: -30px;
+  margin-right: 150px;
+  background: #e3b873;
+}
+
+.from {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.hero-3 {
+  max-width: 1440px;
+}
+
+.slider-3 {
+  background-image: url("./images/hero-6.png");
+}
+
+.circle {
+  margin-top: 40px;
+  margin-left: -470px;
+}
+
+.circle-1 {
+  width: 61px;
+  height: 61px;
+  background: #e3b873;
+  border: 8px solid #ffffff;
+  box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+  border-radius: 30px;
+  margin-bottom: 90px;
+}
+
+.circle_1 {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.paragraf1 {
+  width: 316px;
+  height: 39px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+  margin-top: 13px;
+  margin-bottom: 120px;
+}
+
+.paragraf2 {
+  width: 87px;
+  height: 20px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+  margin-bottom: 130px;
+}
+
+.paragraf3 {
+  width: 107px;
+  height: 20px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+  margin-bottom: 122px;
+}
+
+.paragraf4 {
+  width: 198px;
+  height: 39px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+}
+
+.box1 {
+  margin-top: 124px;
+  display: flex;
+}
+
+.text1 {
+  margin-top: 40px;
+  margin-right: 200px;
+  margin-left: 17px;
+}
+
+.black {
+  margin-top: 40px;
+  width: 506px;
+  height: 509px;
+  background: #131313;
+}
+
+.text-black {
+  width: 297px;
+  height: 47px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  margin-top: 28px;
+  margin-right: 105px;
+  margin-left: 104px;
+  color: #ffffff;
+}
+
+.input_1 {
+  width: 408px;
+  margin-bottom: 96px;
+}
+
+.input_2 {
+  width: 408px;
+  margin-bottom: 96px;
+}
+
+.input_3 {
+  width: 408px;
+  margin-bottom: 17px;
+}
+
+.paragraf-5 {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 163.68%;
+  margin: 0;
+  color: #ffffff;
+}
+
+.button_black {
+  width: 213px;
+  height: 51px;
+  margin-bottom: 27px;
+  margin-left: 244px;
+  background: #e3b873;
+}
+
+.button-black {
+  width: 170px;
+  height: 13px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 21px;
+  padding-top: 15px;
+  padding-left: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.box-list {
+  margin-bottom: 39px;
+  margin-left: 49px;
+  display: flex;
+}
+
+.circle-2 {
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background-color: #e3b873;
+}
+
+.pig {
+  margin-top: 20px;
+  margin-right: 16px;
+  margin-bottom: -30px;
+  margin-left: 16px;
+}
+
+.bax {
+  text-align: center;
+}
+
+.circle-box {
+  text-align: end;
+  margin-top: -45px;
+  margin-bottom: 71px;
+}
+
+.paragraf-pig {
+  display: inline-block;
+  text-align: start;
+  width: 344px;
+  height: 47px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  margin-top: 5px;
+  margin-left: 25px;
+  color: #e3b873;
+}
+
+.text-list {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #181818;
+}
+
+.arm {
+  text-align: center;
+}
+
+.paragraf-list {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 29px;
+  text-align: center;
+  color: #363636;
+}
+
+.blok-name {
+  display: flex;
+  margin-left: 130px;
+}
+
+.foto-list {
+  border-radius: 50%;
+}
+
+.list {
+  width: 178px;
+  height: 42px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  margin-right: 200px;
+  margin-left: 30px;
+  color: #181818;
+}
+
+.blok-text {
+  margin-left: 130px;
+  display: flex;
+}
+
+.info-list {
+  width: 324px;
+  height: 216px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 180%;
+  margin-right: 160px;
+  color: #959595;
+}
+
+.blok-r1 {
+  display: inline-block;
+  width: 140px;
+  height: 54px;
+  margin-right: 0.1px;
+  background: #e3b873;
+}
+
+.blok-r2 {
+  display: inline-block;
+  width: 152px;
+  height: 54px;
+  background: #e3b873;
+}
+
+.blok_r1 {
+  display: inline-block;
+  margin-top: 63px;
+  margin-right: 136px;
+  margin-left: 103px;
+}
+
+.blok_r2 {
+  display: inline-block;
+  margin-top: 63px;
+  margin-right: 136px;
+}
+
+.blok_r3 {
+  display: inline-block;
+  margin-top: 63px;
+}
+
+.p1 {
+  display: inline-block;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  text-align: end;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.black-list {
+  display: inline-block;
+  text-align: center;
+  width: 883px;
+  height: 445px;
+  background-color: black;
+}
+
+.black-text {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  margin-top: 34px;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.input-5 {
+  margin-right: 58px;
+}
+
+.input-7 {
+  margin-top: 92px;
+}
+
+.black-paragraf {
+  display: inline;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 163.68%;
+  margin-bottom: 50px;
+  color: white;
+}
+
+.black-button {
+  margin-top: 50px;
+}
+
+.house {
+  background-image: url("../images/house.jpg");
 }
 
 @media screen and (max-width: 1440px) {
@@ -408,111 +996,5 @@
     padding-left: 50px;
     height: 51px;
     border-radius: 0px;
-  }
-
-  .subtitle {
-    width: 100%;
-    max-width: 320px;
-    width: 253px;
-    height: 66px;
-    font-family: Yeseva One;
-    font-style: Regular;
-    font-size: 22px;
-    line-height: 30.49px;
-    line-height: 138.6%;
-    margin-top: -36px;
-    margin-bottom: 0;
-    margin-left: 61px;
-    text-align: center;
-    color: #e3b873;
-  }
-
-  .paragraf-1 {
-    width: 100%;
-    max-width: 320px;
-    width: 311px;
-    height: 86px;
-    font-family: Nunito Sans;
-    font-style: Regular;
-    font-size: 11px;
-    line-height: 17.43px;
-    line-height: 158.48%;
-    margin-top: 22px;
-    margin-bottom: 0;
-    margin-left: 32px;
-    text-align: center;
-    color: #ffffff;
-  }
-
-  .hero-1-m {
-    width: 100%;
-    max-width: 320px;
-    display: inline;
-    text-align: center;
-    margin-top: 36px;
-    margin-left: 17px;
-  }
-
-  .button-m {
-    display: inline;
-    margin-top: -132px;
-    margin-bottom: 70px;
-  }
-
-  .but-m1 {
-    display: inline;
-    width: 36px;
-    height: 36px;
-    margin-right: 212px;
-    margin-left: 32px;
-    border-radius: 50%;
-    border: none;
-    background-color: #e3b873;
-  }
-
-  .but-m2 {
-    display: inline;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    border: none;
-    background-color: #e3b873;
-  }
-
-  .arrow-left {
-    width: 10px;
-    height: 10px;
-    border-top: 3px solid #ffffff;
-    border-right: 3px solid #ffffff;
-    margin-right: 10px;
-    margin-left: 8px;
-    transform: rotate(-135deg);
-  }
-
-  .arrow-right {
-    width: 10px;
-    height: 10px;
-    border-top: 3px solid #ffffff;
-    border-right: 3px solid #ffffff;
-    margin-right: 10px;
-    margin-left: 5px;
-    transform: rotate(45deg);
-  }
-
-  .slider-box {
-    display: none;
-  }
-
-  .slider-1 {
-    display: none;
-  }
-
-  .blok {
-    margin-bottom: 27px;
-    margin-left: 18px;
-  }
-
-  .blok-1 {
-    margin-left: 18px;
   }
 }
