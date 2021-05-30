@@ -7,7 +7,7 @@
 }
 
 .container {
-  max-width: 1440px;
+  max-width: 1250px;
   margin: 0 auto;
 }
 
@@ -93,6 +93,10 @@
   color: white;
 }
 
+.header-navigation_item :hover {
+  color: #e3b873;
+}
+
 .link {
   font-family: Nunito Sans;
   font-style: normal;
@@ -166,7 +170,7 @@
 }
 
 .container-1 {
-  max-width: 1440px;
+  max-width: 1250px;
   height: 1074px;
   margin: 0 auto;
 }
@@ -265,6 +269,79 @@
   color: #ffffff;
 }
 
+.arrows {
+  display: flex;
+  margin-top: 82px;
+}
+
+.arrow_left {
+  width: 40px;
+  height: 1.5px;
+  margin-top: 3.5px;
+  margin-right: 29px;
+  position: relative;
+  background: #ffffff;
+}
+
+.arrow_left::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border: solid transparent;
+  position: absolute;
+  bottom: -6px;
+  border-top: 2px solid #ffffff;
+  border-right: 2px solid #ffffff;
+  border-radius: 20%;
+  transform: rotate(-135deg);
+}
+
+.krug-1 {
+  width: 9px;
+  height: 9px;
+  margin-right: 17px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
+
+.krug-2 {
+  width: 9px;
+  height: 9px;
+  margin-right: 17px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+}
+
+.krug-3 {
+  width: 9px;
+  height: 9px;
+  margin-right: 29px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+}
+
+.arrow_right {
+  width: 40px;
+  height: 1.5px;
+  margin-top: 3.5px;
+  position: relative;
+  background: #ffffff;
+}
+
+.arrow_right::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  right: 0px;
+  border: solid transparent;
+  position: absolute;
+  bottom: -6px;
+  border-top: 2px solid #ffffff;
+  border-right: 2px solid #ffffff;
+  border-radius: 20%;
+  transform: rotate(45deg);
+}
+
 .hero-1-m {
   display: none;
 }
@@ -301,7 +378,6 @@
 
 .korob {
   margin-top: 107px;
-  /*margin-right: 90px;*/
 }
 
 .slider-box {
@@ -511,5 +587,9 @@
 
   .blok-1 {
     margin-left: 18px;
+  }
+
+  .arrows {
+    display: none;
   }
 }
