@@ -407,6 +407,274 @@
   color: #ffffff;
 }
 
+.hero-2 {
+  max-width: 1250px;
+  margin-top: -420px;
+  margin-left: 210px;
+}
+
+.line {
+  display: flex;
+}
+
+.vector {
+  color: #e3b873;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+
+.hr-line-left {
+  width: 32px;
+  height: 1px;
+  color: #e3b873;
+  margin-top: 15px;
+  margin-right: 4px;
+}
+
+.hr-line-right {
+  width: 32px;
+  height: 1px;
+  color: #e3b873;
+  margin-top: 15px;
+  margin-left: 4px;
+}
+
+.icon {
+  margin-top: 92px;
+  padding-bottom: 257px;
+  text-align: center;
+}
+
+.slider-2 {
+  width: 817px;
+  height: 434px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.slider_3 {
+  margin: 0;
+}
+
+.slider_4 {
+  margin: 0;
+}
+
+.slider_5 {
+  margin: 0;
+}
+
+.but {
+  text-align: center;
+  margin-top: -280px;
+  margin-bottom: 200px;
+}
+
+.button-2 {
+  width: 28px;
+  height: 28px;
+  margin-left: 28px;
+  padding: 0;
+  border: 15px solid transparent;
+  border-left: 25px solid #ffffff;
+}
+
+.button_2 {
+  width: 85px;
+  height: 85px;
+  border: 0;
+  border-radius: 50%;
+  background-color: #e3b873;
+}
+
+.paragraf-3 {
+  display: inline-block;
+  width: 680px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 37px;
+  text-align: center;
+  color: #363636;
+}
+
+.bux {
+  text-align: center;
+  margin-top: -200px;
+}
+
+.box-2 {
+  margin-top: 300px;
+  margin-bottom: 91px;
+  text-align: center;
+}
+
+.button-3 {
+  width: 200px;
+  height: 51px;
+  border: none;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  border-radius: 2px;
+  background: #e3b873;
+}
+
+.input-1 {
+  text-align: center;
+}
+
+.paragraf-4 {
+  display: inline;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 163.68%;
+  margin: 0;
+  color: #181818;
+}
+
+.box-3 {
+  margin-top: 37px;
+  margin-bottom: 75px;
+  text-align: center;
+}
+
+.checkmark {
+  display: inline;
+  width: 18px;
+  height: 18px;
+  border: none;
+  border-radius: 1px;
+  margin-right: 8px;
+  background-color: #e3b873;
+}
+
+.paragraf_4 {
+  margin: 0;
+}
+
+.text-1 {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #181818;
+}
+
+.vector_2 {
+  color: #e3b873;
+}
+
+.icon-1 {
+  margin: 0;
+  margin-bottom: 31px;
+  text-align: center;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 0;
+}
+
+.box-4 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: -110px;
+}
+
+.box_4 {
+  width: 330px;
+  height: 286px;
+  margin: 0;
+  background: #ffffff;
+}
+
+.box_5 {
+  width: 330px;
+  height: 286px;
+  margin: 0;
+  background: #ffffff;
+}
+
+.box_6 {
+  width: 330px;
+  height: 286px;
+  margin: 0;
+  background: #ffffff;
+}
+
+.subtitle-2 {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 13px;
+  margin-left: 34px;
+  color: #363636;
+}
+
+.navigation-1 {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 27px;
+  margin-top: 0;
+  margin-left: 10px;
+  color: #959595;
+}
+
+.box-5 {
+  display: flex;
+  margin-top: -30px;
+}
+
+.blok_1 {
+  width: 228px;
+  height: 54px;
+  margin-right: 70px;
+  margin-left: 40px;
+  background: #e3b873;
+}
+
+.blok_2 {
+  width: 228px;
+  height: 54px;
+  margin-right: 70px;
+  margin-left: 120px;
+  background: #e3b873;
+}
+
+.blok_3 {
+  width: 228px;
+  height: 54px;
+  margin-left: 120px;
+  background: #e3b873;
+}
+
+.from {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
 @media screen and (max-width: 1440px) {
   .body {
     margin: 0;
