@@ -166,7 +166,6 @@
 }
 
 .hero-1 {
-  max-width: 1250px;
   margin: 0 auto;
   background: #131313;
 }
@@ -411,7 +410,6 @@
 }
 
 .hero-2 {
-  max-width: 1250px;
   margin: 0 auto;
   margin-top: -420px;
 }
@@ -609,39 +607,57 @@
 }
 
 .gallery {
-  display: flex;
-  justify-content: space-around;
-  margin-bottom: 0;
+  text-align: center;
+}
+
+.slider_3 {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.slider_4 {
+  display: inline-block;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.slider_5 {
+  display: inline-block;
+  margin-left: 15px;
 }
 
 .box-4 {
-  display: flex;
-  justify-content: space-around;
-  margin-top: -110px;
+  text-align: center;
+  margin-top: -170px;
 }
 
 .box_4 {
+  display: inline-block;
   width: 330px;
   height: 286px;
-  margin: 0;
+  margin-right: 46px;
   background: #ffffff;
 }
 
 .box_5 {
+  display: inline-block;
   width: 330px;
   height: 286px;
-  margin: 0;
+  margin-right: 46px;
+  margin-left: 46px;
   background: #ffffff;
 }
 
 .box_6 {
+  display: inline-block;
   width: 330px;
   height: 286px;
-  margin: 0;
+  margin-left: 46px;
   background: #ffffff;
 }
 
 .subtitle-2 {
+  text-align: start;
   font-family: Yeseva One;
   font-style: normal;
   font-weight: normal;
@@ -653,6 +669,7 @@
 }
 
 .navigation-1 {
+  text-align: start;
   font-family: Nunito Sans;
   font-style: normal;
   font-weight: normal;
@@ -664,30 +681,33 @@
 }
 
 .box-5 {
-  display: flex;
+  text-align: center;
   margin-top: -30px;
 }
 
 .blok_1 {
+  display: inline-block;
   width: 228px;
   height: 54px;
-  margin-right: 70px;
-  margin-left: 40px;
+  margin-right: 97px;
   background: #e3b873;
 }
 
 .blok_2 {
+  display: inline-block;
   width: 228px;
   height: 54px;
-  margin-right: 70px;
-  margin-left: 120px;
+  margin-right: 97px;
+  margin-left: 97px;
   background: #e3b873;
 }
 
 .blok_3 {
+  display: inline-block;
   width: 228px;
   height: 54px;
-  margin-left: 120px;
+  margin-right: 90px;
+  margin-left: 97px;
   background: #e3b873;
 }
 
@@ -1082,9 +1102,10 @@
   .box_4 {
     width: 270px;
     height: 241px;
-    margin-top: -1190px;
+    margin-top: -1125px;
+    margin-right: auto;
     margin-bottom: 285px;
-    margin-left: 27.5px;
+    margin-left: auto;
     background: #ffffff;
   }
 
@@ -1092,8 +1113,9 @@
     width: 270px;
     height: 241px;
     margin-top: 60px;
+    margin-right: auto;
     margin-bottom: 285px;
-    margin-left: 27.5px;
+    margin-left: auto;
     background: #ffffff;
   }
 
@@ -1101,7 +1123,8 @@
     width: 270px;
     height: 241px;
     margin-top: 50px;
-    margin-left: 27.5px;
+    margin-right: auto;
+    margin-left: auto;
     background: #ffffff;
   }
 
@@ -1135,20 +1158,20 @@
   .blok_1 {
     width: 228px;
     height: 54px;
-    margin: 0;
     margin-top: -1115px;
+    margin-right: auto;
     margin-bottom: 470px;
-    margin-left: 28px;
+    margin-left: auto;
     background: #e3b873;
   }
 
   .blok_2 {
     width: 228px;
     height: 54px;
-    margin: 0;
     margin-top: 60px;
+    margin-right: auto;
     margin-bottom: 520px;
-    margin-left: 28px;
+    margin-left: auto;
     background: #e3b873;
   }
 
@@ -1156,8 +1179,8 @@
     width: 228px;
     height: 54px;
     margin-top: 50px;
-    margin: 0;
-    margin-left: 28px;
+    margin-right: auto;
+    margin-left: auto;
     background: #e3b873;
   }
 
