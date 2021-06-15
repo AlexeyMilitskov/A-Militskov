@@ -722,7 +722,495 @@
   color: #ffffff;
 }
 
-@media screen and (max-width: 1440px) {
+.hero-3 {
+  margin: 0 auto;
+}
+
+.slider-3 {
+  background-image: url("./images/hero-6.png");
+}
+
+.circle {
+  margin-top: 40px;
+  margin-left: -470px;
+}
+
+.circle-1 {
+  width: 61px;
+  height: 61px;
+  background: #e3b873;
+  border: 8px solid #ffffff;
+  box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.15);
+  border-radius: 30px;
+  margin-bottom: 90px;
+}
+
+.circle_1 {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 10px;
+}
+
+.paragraf1 {
+  width: 316px;
+  height: 39px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+  margin-top: 13px;
+  margin-bottom: 120px;
+}
+
+.paragraf2 {
+  width: 87px;
+  height: 20px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+  margin-bottom: 130px;
+}
+
+.paragraf3 {
+  width: 107px;
+  height: 20px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+  margin-bottom: 122px;
+}
+
+.paragraf4 {
+  width: 198px;
+  height: 39px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #363636;
+}
+
+.box1 {
+  margin-top: 124px;
+  display: flex;
+}
+
+.text1 {
+  margin-top: 40px;
+  margin-right: 200px;
+  margin-left: 17px;
+}
+
+.black {
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 255px;
+  width: 506px;
+  height: 509px;
+  background: #131313;
+}
+
+.text-black {
+  width: 297px;
+  height: 47px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  margin-top: 28px;
+  margin-right: 105px;
+  margin-bottom: 65px;
+  margin-left: 104px;
+  color: #ffffff;
+}
+
+.input_1 {
+  width: 408px;
+  margin-bottom: 65px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  font-family: Nunito Sans;
+  font-style: Regular;
+  Font-size: 14px;
+  Line-height: 22.92px;
+  background-color: #131313;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.input_2 {
+  width: 408px;
+  margin-bottom: 65px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  font-family: Nunito Sans;
+  font-style: Regular;
+  Font-size: 14px;
+  Line-height: 22.92px;
+  background-color: #131313;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.input_3 {
+  width: 408px;
+  margin-bottom: 17px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  font-family: Nunito Sans;
+  font-style: Regular;
+  Font-size: 14px;
+  Line-height: 22.92px;
+  background-color: #131313;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.paragraf-5 {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 163.68%;
+  margin: 0;
+  color: #ffffff;
+}
+
+.button_black {
+  width: 213px;
+  height: 51px;
+  margin-bottom: 27px;
+  margin-left: 244px;
+  background: #e3b873;
+}
+
+.button-black {
+  width: 170px;
+  height: 13px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 21px;
+  padding-top: 15px;
+  padding-left: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.box-list {
+  margin-bottom: 39px;
+  margin-left: 49px;
+  display: flex;
+}
+
+.circle-2 {
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background-color: #e3b873;
+}
+
+.pig {
+  margin-top: 20px;
+  margin-right: 16px;
+  margin-bottom: -30px;
+  margin-left: 16px;
+}
+
+.bax {
+  text-align: center;
+}
+
+.circle-box {
+  text-align: end;
+  margin-top: -45px;
+  margin-bottom: 71px;
+}
+
+.paragraf-pig {
+  display: inline-block;
+  text-align: start;
+  width: 344px;
+  height: 47px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 26px;
+  margin-top: 5px;
+  margin-left: 25px;
+  color: #e3b873;
+}
+
+.text-list {
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #181818;
+}
+
+.arm {
+  text-align: center;
+}
+
+.paragraf-list {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 29px;
+  text-align: center;
+  color: #363636;
+}
+
+.blok-name {
+  display: flex;
+  justify-content: space-around;
+}
+
+.foto-list {
+  margin-right: -120px;
+  border-radius: 50%;
+}
+
+.list {
+  width: 178px;
+  height: 42px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  margin-left: -100px;
+  color: #181818;
+}
+
+.blok-text {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+.info-list {
+  width: 324px;
+  height: 216px;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 180%;
+  color: #959595;
+}
+
+.blok-r1 {
+  display: inline-block;
+  width: 140px;
+  height: 54px;
+  margin-right: 0.1px;
+  background: #e3b873;
+}
+
+.blok-r2 {
+  display: inline-block;
+  width: 152px;
+  height: 54px;
+  background: #e3b873;
+}
+
+.blok_r1 {
+  display: inline-block;
+  margin-top: 63px;
+  margin-right: 136px;
+  margin-left: 103px;
+}
+
+.blok_r2 {
+  display: inline-block;
+  margin-top: 63px;
+  margin-right: 136px;
+}
+
+.blok_r3 {
+  display: inline-block;
+  margin-top: 63px;
+}
+
+.p1 {
+  display: inline-block;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  text-align: end;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.black-list {
+  text-align: center;
+  width: 883px;
+  height: 445px;
+  margin: 0 auto;
+  margin-top: 132px;
+  background-color: black;
+}
+
+.black-text {
+  display: inline-block;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  margin-top: 34px;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.input-5 {
+  width: 231px;
+  margin-right: 58px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  Font-family: Nunito Sans;
+  Font-style: Regular;
+  Font-size: 14px;
+  Line-height: 22.92px;
+  background-color: black;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.input-6 {
+  width: 231px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  Font-family: Nunito Sans;
+  Font-style: Regular;
+  Font-size: 14px;
+  Line-height: 22.92px;
+  background-color: black;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.input-7 {
+  display: block;
+  margin: 0 auto;
+  margin-top: 80px;
+  width: 522px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  Font-family: Nunito Sans;
+  Font-style: Regular;
+  Font-size: 14px;
+  Line-height: 22.92px;
+  background-color: black;
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.black-paragraf {
+  display: inline;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 163.68%;
+  margin-bottom: 50px;
+  color: white;
+}
+
+.black-button {
+  margin-top: 50px;
+}
+
+.rostov {
+  text-align: center;
+  Font-family: Yeseva One;
+  Font-style: Regular;
+  Font-size: 20px;
+  Line-height: 27.72px;
+  margin-top: 52px;
+  margin-bottom: 26px;
+  color: #E3B873;
+}
+
+.bit-1 {
+  text-align: center;
+}
+
+.bit {
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 50%;
+  margin-right: 15px;
+  background-color: #E3B873;
+}
+
+.map {
+  text-align: center;
+  margin-top: 43px;
+}
+
+.hero_4 {
+  margin: 0 auto;
+}
+
+.house {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.footer {
+  background-color: black;
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-size: 11px;
+  line-height: 15px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  height: 133px;
+  align-items: center;
+}
+
+/*@media screen and (max-width: 1440px) {
   .body {
     margin: 0;
   }
