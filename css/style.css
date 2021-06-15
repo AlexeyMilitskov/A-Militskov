@@ -1015,6 +1015,7 @@
   display: flex;
   justify-content: space-around;
   margin: 0 auto;
+  margin-bottom: 63px;
 }
 
 .info-list {
@@ -1026,6 +1027,11 @@
   font-size: 13px;
   line-height: 180%;
   color: #959595;
+}
+
+.blok-rr {
+  display: flex;
+  justify-content: space-around;
 }
 
 .blok-r1 {
@@ -1043,22 +1049,32 @@
   background: #e3b873;
 }
 
-.blok_r1 {
+.blok-r3 {
   display: inline-block;
-  margin-top: 63px;
-  margin-right: 136px;
-  margin-left: 103px;
+  width: 152px;
+  height: 54px;
+  background: #e3b873;
 }
 
-.blok_r2 {
+.blok-r4 {
   display: inline-block;
-  margin-top: 63px;
-  margin-right: 136px;
+  width: 152px;
+  height: 54px;
+  background: #e3b873;
 }
 
-.blok_r3 {
+.blok-r5 {
   display: inline-block;
-  margin-top: 63px;
+  width: 152px;
+  height: 54px;
+  background: #e3b873;
+}
+
+.blok-r6 {
+  display: inline-block;
+  width: 152px;
+  height: 54px;
+  background: #e3b873;
 }
 
 .p1 {
