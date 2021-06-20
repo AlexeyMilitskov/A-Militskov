@@ -848,8 +848,8 @@
   border-left: none;
   font-family: Nunito Sans;
   font-style: Regular;
-  Font-size: 14px;
-  Line-height: 22.92px;
+  font-size: 14px;
+  line-height: 22.92px;
   background-color: #131313;
   color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
@@ -863,8 +863,8 @@
   border-left: none;
   font-family: Nunito Sans;
   font-style: Regular;
-  Font-size: 14px;
-  Line-height: 22.92px;
+  font-size: 14px;
+  line-height: 22.92px;
   background-color: #131313;
   color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
@@ -878,8 +878,8 @@
   border-left: none;
   font-family: Nunito Sans;
   font-style: Regular;
-  Font-size: 14px;
-  Line-height: 22.92px;
+  font-size: 14px;
+  line-height: 22.92px;
   background-color: #131313;
   color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
@@ -1036,7 +1036,7 @@
 
 .blok-r1 {
   display: inline-block;
-  width: 140px;
+  width: 152px;
   height: 54px;
   margin-right: 0.1px;
   background: #e3b873;
@@ -1077,14 +1077,141 @@
   background: #e3b873;
 }
 
+.blok-pi {
+  display: flex;
+  justify-content: space-around;
+  margin-top: -50px;
+}
+
+.blok-pi1 {
+  width: 152px;
+  height: 54px;
+}
+
+.blok-pi2 {
+  margin-left: -150px;
+  width: 152px;
+  height: 54px;
+}
+
+.blok-pi3 {
+  margin-right: -100px;
+  width: 152px;
+  height: 54px;
+}
+
+.blok-pi4 {
+  margin-left: -50px;
+  width: 152px;
+  height: 54px;
+}
+
+.blok-pi5 {
+  margin-right: -150px;
+  width: 152px;
+  height: 54px;
+}
+
+.blok-pi6 {
+  width: 152px;
+  height: 54px;
+}
+
+.pi-1 {
+  display: block;
+  margin-left: 50px;
+}
+
 .p1 {
-  display: inline-block;
+  margin-top: -27px;
+  margin-left: 95px;
   font-family: Yeseva One;
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
   line-height: 24px;
-  text-align: end;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.pi-2 {
+  display: block;
+}
+
+.p2 {
+  margin-top: -27px;
+  margin-left: 40px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.pi-3 {
+  display: block;
+  margin-left: 50px;
+}
+
+.p3 {
+  margin-top: -27px;
+  margin-left: 95px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.pi-4 {
+  display: block;
+}
+
+.p4 {
+  margin-top: -27px;
+  margin-left: 40px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.pi-5 {
+  display: block;
+  margin-left: 50px;
+}
+
+.p5 {
+  margin-top: -27px;
+  margin-left: 95px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.pi-6 {
+  display: block;
+}
+
+.p6 {
+  margin-top: -27px;
+  margin-left: 40px;
+  font-family: Yeseva One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 24px;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -1118,10 +1245,10 @@
   border-top: none;
   border-right: none;
   border-left: none;
-  Font-family: Nunito Sans;
-  Font-style: Regular;
-  Font-size: 14px;
-  Line-height: 22.92px;
+  font-family: Nunito Sans;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 22.92px;
   background-color: black;
   color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
@@ -1132,10 +1259,10 @@
   border-top: none;
   border-right: none;
   border-left: none;
-  Font-family: Nunito Sans;
-  Font-style: Regular;
-  Font-size: 14px;
-  Line-height: 22.92px;
+  font-family: Nunito Sans;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 22.92px;
   background-color: black;
   color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
@@ -1149,10 +1276,10 @@
   border-top: none;
   border-right: none;
   border-left: none;
-  Font-family: Nunito Sans;
-  Font-style: Regular;
-  Font-size: 14px;
-  Line-height: 22.92px;
+  font-family: Nunito Sans;
+  font-style: Regular;
+  font-size: 14px;
+  line-height: 22.92px;
   background-color: black;
   color: #ffffff;
   border-color: rgba(255, 255, 255, 0.15);
@@ -1175,13 +1302,13 @@
 
 .rostov {
   text-align: center;
-  Font-family: Yeseva One;
-  Font-style: Regular;
-  Font-size: 20px;
-  Line-height: 27.72px;
+  font-family: Yeseva One;
+  font-style: Regular;
+  font-size: 20px;
+  line-height: 27.72px;
   margin-top: 52px;
   margin-bottom: 26px;
-  color: #E3B873;
+  color: #e3b873;
 }
 
 .bit-1 {
@@ -1194,7 +1321,23 @@
   border: none;
   border-radius: 50%;
   margin-right: 15px;
-  background-color: #E3B873;
+  background-color: #e3b873;
+}
+
+.convert {
+  text-align: center;
+  margin-top: -25px;
+}
+
+.convertik {
+  display: inline-block;
+  margin-right: 28px;
+  margin-left: 5px;
+}
+
+.lens {
+  display: inline-block;
+  margin-right: 21px;
 }
 
 .map {
@@ -1226,7 +1369,7 @@
   align-items: center;
 }
 
-/*@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1440px) {
   .body {
     margin: 0;
   }
@@ -1697,5 +1840,133 @@
     text-align: center;
     text-transform: uppercase;
     color: #ffffff;
+  }
+
+  .black {
+    display: none;
+  }
+
+  .circle-box {
+    display: none;
+  }
+
+  .text-list {
+    display: none;
+  }
+
+  .arm {
+    display: none;
+  }
+
+  .paragraf-list {
+    display: none;
+  }
+
+  .blok-name {
+    display: none;
+  }
+
+  .blok-text {
+    display: none;
+  }
+
+  .blok-rr {
+    display: none;
+  }
+
+  .blok-pi {
+    display: none;
+  }
+
+  .circle {
+    display: none;
+  }
+
+  .paragraf1 {
+    display: none;
+  }
+
+  .paragraf2 {
+    display: none;
+  }
+
+  .paragraf3 {
+    display: none;
+  }
+
+  .paragraf4 {
+    display: none;
+  }
+
+  .black-list {
+    width: 100%;
+    max-width: 320px;
+    margin-top: 1750px;
+  }
+
+  .in {
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .input-5 {
+    width: 100%;
+    max-width: 320px;
+    margin-bottom: 107px;
+  }
+
+  .input-6 {
+    width: 100%;
+    max-width: 320px;
+    margin-bottom: 107px;
+  }
+
+  .input-7 {
+    width: 100%;
+    max-width: 320px;
+    margin-bottom: 23px;
+  }
+
+  .box-3 {
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .black-button {
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .rostov {
+    width: 100%;
+    max-width: 320px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 150px;
+  }
+
+  .bit-1 {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+  }
+
+  .convert {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+    margin-top: -25px;
+  }
+
+  .map {
+    display: none;
+  }
+
+  .house {
+    display: none;
+  }
+
+  .footer-content {
+    display: none;
   }
 }
