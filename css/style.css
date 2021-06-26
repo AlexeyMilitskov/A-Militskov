@@ -1674,12 +1674,6 @@
     border-color: rgba(54, 54, 54, 0.3);
   }
 
-  .box-3 {
-    margin-top: -135px;
-    margin-bottom: 175px;
-    text-align: center;
-  }
-
   .checkmark {
     display: inline;
     width: 18px;
@@ -1904,41 +1898,34 @@
 
   .black-list {
     width: 100%;
-    max-width: 320px;
+    height: 100%;
     margin-top: 1750px;
-  }
-
-  .in {
-    width: 100%;
-    max-width: 320px;
   }
 
   .input-5 {
     width: 100%;
     max-width: 320px;
+    margin: 0 auto;
     margin-bottom: 107px;
   }
 
   .input-6 {
     width: 100%;
     max-width: 320px;
+    margin: 0 auto;
     margin-bottom: 107px;
   }
 
   .input-7 {
     width: 100%;
     max-width: 320px;
-    margin-bottom: 23px;
+    margin: 0 auto;
+    margin-bottom: 150px;
   }
 
   .box-3 {
-    width: 100%;
-    max-width: 320px;
-  }
-
-  .black-button {
-    width: 100%;
-    max-width: 320px;
+    margin-top: -135px;
+    margin-bottom: 150px;
   }
 
   .rostov {
