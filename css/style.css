@@ -1342,11 +1342,22 @@
 
 .map {
   text-align: center;
-  margin-top: 43px;
+  margin-top: 230px;
 }
 
 .hero_4 {
   margin: 0 auto;
+  position: relative;
+}
+
+.hero_4-overlay {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .house {
@@ -1367,6 +1378,10 @@
   justify-content: space-between;
   height: 133px;
   align-items: center;
+}
+
+.map-2 {
+  display: none;
 }
 
 @media screen and (max-width: 1440px) {
@@ -1928,12 +1943,17 @@
     margin-bottom: 150px;
   }
 
+  .map-2 {
+    display: inline;
+  }
+
   .rostov {
     width: 100%;
     max-width: 320px;
     text-align: center;
     margin: 0 auto;
-    margin-top: 150px;
+    margin-top: 30px;
+    margin-bottom: 20px;
   }
 
   .bit-1 {
