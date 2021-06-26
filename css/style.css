@@ -1712,6 +1712,10 @@
     margin-bottom: 0;
   }
 
+  .slider3 {
+    display: none;
+  }
+
   .slider-3 {
     width: 100%;
     max-width: 320px;
